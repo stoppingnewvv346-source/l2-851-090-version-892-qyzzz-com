@@ -1,0 +1,20 @@
+{
+  "source_records": 2000,
+  "generated_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "category_distribution": {
+    "精选电影": 250,
+    "华语专区": 250,
+    "欧美专区": 250,
+    "日韩精选": 250,
+    "动作惊悚": 250,
+    "爱情喜剧": 250,
+    "悬疑犯罪": 250,
+    "剧集动画": 250
+  },
+  "cover_rule": "X = ((N - 1) % 150) + 1",
+  "video_source_count_from_uploaded_js": 20,
+  "logo": "免费电影大全",
+  "built_at": "2026-05-27T02:28:49Z"
+}
